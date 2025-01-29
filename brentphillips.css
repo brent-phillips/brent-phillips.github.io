@@ -338,6 +338,13 @@
             margin-left:auto;
             margin-right: auto;
         }
+        h6.headerFont a {
+            font-size:3.2vw;
+            width:80%;
+            text-align:center;
+            margin-left:auto;
+            margin-right: auto;
+        }
         .myFooter{
             font-size:3.2vw;
         }
